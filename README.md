@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Sarwar</h1>
 <h3 align="center">A FRONTEND DEVELOPER FROM BANGLADESH 🇧🇩</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/flat-illustration-react-native-programmer-concept-illustration-websites-landing-pages-mobile-applications-posters-banners_108061-736.jpg?w=2000" />
