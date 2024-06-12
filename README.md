@@ -1,4 +1,4 @@
-[![MasterHead](https://codetru.com/images/all/reactjs-bg-1.jpg)](https://Sarwar009.io)
+
 <h1 align="center">Hi 👋, I'm Sarwar</h1>
 <h3 align="center">A FRONTEND DEVELOPER FROM BANGLADESH 🇧🇩</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/flat-illustration-react-native-programmer-concept-illustration-websites-landing-pages-mobile-applications-posters-banners_108061-736.jpg?w=2000" />
