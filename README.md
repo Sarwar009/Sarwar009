@@ -1,4 +1,129 @@
-<h1 align="center">Hi 👋, I'm Sarwar</h1>
+<!-- ===== Banner ===== -->
+<p align="center">
+  <img src="https://img.freepik.com/premium-vector/flat-illustration-react-native-programmer-concept-illustration-websites-landing-pages-mobile-applications-posters-banners_108061-736.jpg?w=2000" alt="Banner" width="full" height="300" />
+</p>
+
+<h1 align="center">Hi, I'm Golam Sarwar 👋</h1>
+<h3 align="center">Frontend Developer | MERN Stack Developer | JavaScript Enthusiast</h3>
+
+<p align="center">
+  📍 Sylhet, Bangladesh •  
+  📧 <a href="mailto:ssarwar459@gmail.com">ssarwar459@gmail.com</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+Hi! I'm **Sarwar**, a passionate frontend & MERN stack developer who loves crafting modern, responsive and user-friendly web applications.  
+I enjoy learning new technologies, building real-world projects, and improving my coding skills everyday.
+
+### 🔥 What I'm Doing Now
+- 🚀 Working on a **Freelance Market web application**
+- 🌱 Exploring **Node.js, Next.js & React Server Components**
+- 🎨 Building reusable UI components using **Tailwind + ShadCN**
+- 🔐 Learning authentication, JWT and backend security best practices
+
+---
+
+## 🛠️ Skills & Technologies
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vite,figma,postman,netlify,vercel" />
+</p>
+
+---
+
+## 🔗 Social Links  
+<p>
+  <a href="https://www.linkedin.com/in/sarwar009/">LinkedIn</a> •
+  <a href="mailto:ssarwar459@gmail.com">Email</a> •
+  <a href="https://github.com/Sarwar009">GitHub</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sarwar009&show_icons=true&theme=default" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarwar009&theme=default" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarwar009&layout=compact" />
+</p>
+
+---
+## 📌 Pinned Projects  
+<!-- <p align="left">
+  <a href="https://github.com/Sarwar009/B12A09-Gamehub">
+    <p>Gamehub</p>
+    <img width="300" height="300" alt="gamehub" src="https://github.com/user-attachments/assets/aba3b136-a80b-4a8b-b92c-09efb6900efc" />
+
+  </a>
+  <a href="https://github.com/Sarwar009/ph-B12A10-FreelanceMarlet-client">
+    <p>Freelance Marketplace</p>
+    <img width="300" height="300" alt="freelance Marketplace" src="https://github.com/user-attachments/assets/2678a8e8-7520-407f-8e21-f89afdad608b" />
+
+  </a>
+  
+  <a href="https://github.com/Sarwar009/B12A09-Gamehub">
+    <p>Gamehub</p>
+    <img width="300" height="300" alt="gamehub" src="https://github.com/user-attachments/assets/aba3b136-a80b-4a8b-b92c-09efb6900efc" />
+
+  </a>
+</p>
+
+
+---
+## 🚀 Featured Projects -->
+
+Here are some of my highlighted projects:
+
+### [Freelance MarketPlace](https://github.com/Sarwar009/ph-B12A10-FreelanceMarlet-client) 🌐
+- Full-stack web application for exploring, adding, updating, and deleting freelance jobs.
+- Authentication for users to manage their own job data.
+- Built with **React**, **Tailwind CSS**, **Node.js**, and **MongoDB**.
+- Responsive design, works seamlessly on mobile and desktop.
+- Live demo: [Click here](https://ph-b12a10-freelancemarket-client.netlify.app)
+
+### [GameHub](https://github.com/Sarwar009/B12A09-Gamehub) 🎮
+- Interactive platform to explore, rate, and review games.
+- Features search, filters, and user authentication.
+- Developed using **React**, **Firebase**, and **Tailwind CSS**.
+- Smooth UI/UX with responsive design.
+- Live demo: [Click here](https://gamehubsarwar.netlify.app)
+
+### [Portfolio Website](https://github.com/Sarwar009/YourPortfolioRepo) 💻
+- Personal portfolio showcasing projects and skills.
+- Built with **React** and **Tailwind CSS**.
+- Dark/Light mode toggle included.
+- Fully responsive and modern design.
+- Live demo: [Click here](https://yourportfolio.netlify.app)
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <h1 align="center">Hi 👋, I'm Sarwar</h1>
 <h3 align="center">A FRONTEND DEVELOPER FROM BANGLADESH 🇧🇩</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/flat-illustration-react-native-programmer-concept-illustration-websites-landing-pages-mobile-applications-posters-banners_108061-736.jpg?w=2000" />
 
@@ -33,4 +158,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarwar009&show_icons=true&locale=en" alt="sarwar009" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarwar009&" alt="sarwar009" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarwar009&" alt="sarwar009" /></p> -->
