@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Golam Sarwar 👋</h1>
-<h3 align="center">Frontend Developer | MERN Stack Developer | JavaScript Enthusiast</h3>
+<h3 align="center">Frontend Developer || Junior MERN Stack Developer || Next.js Enthusiast</h3>
 
 <p align="center">
   📍 Sylhet, Bangladesh •  
@@ -13,51 +13,138 @@
 
 ---
 
-## 👨‍💻 About Me
-Hi! I'm **Sarwar**, a passionate frontend & MERN stack developer who loves crafting modern, responsive and user-friendly web applications.  
-I enjoy learning new technologies, building real-world projects, and improving my coding skills everyday.
-
-### 🔥 What I'm Doing Now
-- 🚀 Working on a **Freelance Market web application**
-- 🌱 Exploring **Node.js, Next.js & React Server Components**
-- 🎨 Building reusable UI components using **Tailwind + ShadCN**
-- 🔐 Learning authentication, JWT and backend security best practices
+<!-- ========================= ABOUT ME ========================= -->
+## 👋 About Me  
+Hi! I’m **Sarwar**, a passionate frontend developer from Bangladesh.  
+I love creating modern, fast and user-friendly web applications.  
+My focus is clean UI, smooth UX, reusable code and high-performance setups.
 
 ---
 
+<!-- ========================= CURRENT WORK / ACTIVITIES ========================= -->
+## 🚀 What I'm Doing Now
+- 🌱 Exploring **Next.js** deeply  
+- 🏗️ Building a **Tourism Website**  
+- 🎨 Improving design sense & UI/UX  
+- ⚡ Learning **Backend Fundamentals (Node.js + Express.js)**  
+- 🧩 Practicing problem-solving & code optimization  
+
+---
+
+<!-- ========================= SKILLS SECTION ========================= -->
 ## 🛠️ Skills & Technologies
 
-### **Frontend**
+### 💻 Frontend
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=html" width="55"/>
+    <div>HTML5</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=css" width="55"/>
+    <div>CSS3</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=js" width="55"/>
+    <div>JavaScript</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=react" width="55"/>
+    <div>React.js</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
+    <div>Next.js</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="55"/>
+    <div>Tailwind CSS</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=redux" width="55"/>
+    <div>Redux Toolkit</div>
+  </div>
+</div>
+
+---
+
+### 🧩 Backend & Database
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+    <div>Node.js</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=express" width="55"/>
+    <div>Express.js</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+    <div>MongoDB</div>
+  </div>
+</div>
+
+---
+
+### 🧰 Tools & Workflow
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=git" width="55"/>
+    <div>Git</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=github" width="55"/>
+    <div>GitHub</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+    <div>VS Code</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=figma" width="55"/>
+    <div>Figma</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=npm" width="55"/>
+    <div>npm / yarn</div>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=postman" width="55"/>
+    <div>Postman</div>
+  </div>
+</div>
+
+---
+
+<!-- ========================= CONTACT / SOCIALS ========================= -->
+## 🌐 Connect with Me  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+  <strong>📧 Email:</strong> ssarwar459@gmail.com  
 </p>
 
-### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <a href="YOUR_LINKEDIN_LINK">🔗 <strong>LinkedIn</strong></a>  
 </p>
 
-### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vite,figma,postman,netlify,vercel" />
+  <a href="https://github.com/Sarwar009">💻 <strong>GitHub Profile</strong></a>  
 </p>
 
 ---
 
-## 🔗 Social Links  
-<p>
-  <a href="https://www.linkedin.com/in/sarwar009/">LinkedIn</a> •
-  <a href="mailto:ssarwar459@gmail.com">Email</a> •
-  <a href="https://github.com/Sarwar009">GitHub</a>
-</p>
+<!-- ========================= GITHUB STATS ========================= -->
+## 📊 GitHub Stats & Activity
 
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sarwar009&show_icons=true&theme=default" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarwar009&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarwar009&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarwar009&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarwar009&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarwar009&layout=compact" />
